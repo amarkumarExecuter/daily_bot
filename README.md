@@ -1,9 +1,4 @@
 
-# 🤖 Daily Contribution Bot
-
-This bot automatically commits daily to keep GitHub contributions active.
-![Status](https://img.shields.io/badge/Bot-Active-success)
-![Automation](https://img.shields.io/badge/Automation-Daily-blue)
 # 🤖 Daily Auto Commit Bot
 
 <p align="center">
